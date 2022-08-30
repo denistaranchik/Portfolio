@@ -1,0 +1,25 @@
+Test_cases
+Description: Checking the registration on the site without entering the captcha
+
+Preconditions:
+1. The main page of the website is opened 
+2. The user is not registered on this website
+
+1. Step:
+Click the «Join free» button
+1. Expected resul:
+The registration page is opened
+2. Step:
+Fill all the required fields with the valid 
+data
+2. Expected resul:
+The entered data is accepted 
+3. Step:
+Leave the code field empty 
+3. Expected resul:
+The code field is shown empty
+4. Step:
+Click the «Create your account» button 
+4. Expected resul:
+The «Type the characters you see in the picture» 
+error message is shown
