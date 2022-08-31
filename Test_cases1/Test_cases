@@ -1,0 +1,59 @@
+Test_cases
+
+Test_caae 1
+Description: Checking the registration on the site without entering the captcha
+
+Preconditions:
+1. The main page of the website is opened 
+2. The user is not registered on this website
+
+1. Step:
+Click the «Join free» button
+1. Expected resul:
+The registration page is opened
+2. Step:
+Fill all the required fields with the valid 
+data
+2. Expected resul:
+The entered data is accepted 
+3. Step:
+Leave the code field empty 
+3. Expected resul:
+The code field is shown empty
+4. Step:
+Click the «Create your account» button 
+4. Expected resul:
+The «Type the characters you see in the picture» 
+error message is shown
+
+Test_case 2
+Description:  Checking the registration on the site with entering a valid password 
+
+Preconditions:
+1. The main page of the website is opened 
+2.The user is not registered on this website
+
+1. Step:
+Click the «Join free» button 
+1. Expected resul:
+The registration page is opened
+2. Step:
+Fill all the required fields with the valid 
+data
+2. Expected resul:
+The entered data is accepted, fields are 
+highlighted in green color
+3. Step:
+Enter the valid password into the 
+«Password» field
+3. Expected resul:
+The entered password is accepted, dots are 
+displayed in the field, the «Password» field is 
+highlighted in green color
+4. Step:
+Mark the checkbox “I agree to the 
+AliExpress.com Free Membership 
+Agreement” and click the «Create» button
+4. Expected resul:
+The message about successful registration is 
+shown
