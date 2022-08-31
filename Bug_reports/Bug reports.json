@@ -1,0 +1,22 @@
+Bug reports
+
+Bug_report 1
+Summary: Comments are not fully displayed on the “USER COMMENT AND SUGGESTION” form 
+after entering a new comment.
+
+Description: Comments are not fully displayed on the “USER COMMENT AND SUGGESTION” 
+form after entering a new comment.
+
+Steps to reproduce:
+1. Open the site "..."
+2. Register on the site.
+3. Click the “USER COMMENT” link.
+4. Look at the comments.
+
+Actual result: Comments are not fully displayed on the “USER COMMENT AND SUGGESTION” 
+form after entering new comment.
+
+Expected result: Comments are fully displayed and readable on the “USER COMMENT AND 
+SUGGESTION” form after entering new comment.
+
+Attachment: "..."
